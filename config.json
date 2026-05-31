@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersalculate",
+        "uuid": 15530961,
+        "checksum": "hxhw47"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
